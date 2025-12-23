@@ -12,8 +12,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=xrishabhjx&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xrishabhjx&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xrishabhjx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
+
+Here are some of my official GitHub achievements:
+
+- 🦈 **Pull Shark** – Successfully merged pull requests  
+- ⚡ **Quickdraw** – Closed issues or PRs quickly  
+- 🤝 **Pair Extraordinaire** – Co-authored commits in merged PRs  
+- ⭐ **Starstruck** – Created a repository that has stars  
+- 📚 **Galaxy Brain** – Accepted answers in GitHub discussions  
+- 🚀 **YOLO** – Merged a pull request without review
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xrishabhjx&limit=5&theme=dark&combine_all_yearly_contributions=true)
