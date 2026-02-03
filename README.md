@@ -22,10 +22,7 @@ Here are some of my official GitHub achievements:
 
 - 🦈 **Pull Shark** – Successfully merged pull requests  
 - ⚡ **Quickdraw** – Closed issues or PRs quickly  
-- 🤝 **Pair Extraordinaire** – Co-authored commits in merged PRs  
-- ⭐ **Starstruck** – Created a repository that has stars  
-- 📚 **Galaxy Brain** – Accepted answers in GitHub discussions  
-- 🚀 **YOLO** – Merged a pull request without review
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xrishabhjx&limit=5&theme=dark&combine_all_yearly_contributions=true)
