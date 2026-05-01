@@ -17,10 +17,5 @@ Here are some of my official GitHub achievements:
 - ⚡ **Quickdraw** – Closed issues or PRs quickly  
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xrishabhjx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=xrishabhjx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
